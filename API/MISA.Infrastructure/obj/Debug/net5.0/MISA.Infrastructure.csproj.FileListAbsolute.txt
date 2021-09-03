@@ -1,0 +1,51 @@
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.AssemblyReference.cache
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfoInputs.cache
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfo.cs
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.deps.json
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.dll
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\ref\MISA.Infrastructure.dll
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.pdb
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Core.dll
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Core.pdb
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CopyComplete
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.dll
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\ref\MISA.Infrastructure.dll
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.pdb
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.Properties.ResourceVN.resources
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.deps.json
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\net5.0\MISA.Core.pdb
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.Properties.ResourceVN.resources
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.deps.json
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\bin\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\bin\Debug\net5.0\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\bin\Debug\net5.0\MISA.Core.pdb
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.Properties.ResourceVN.resources
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.pdb

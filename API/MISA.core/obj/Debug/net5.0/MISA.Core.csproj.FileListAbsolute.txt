@@ -1,0 +1,41 @@
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\bin\Debug\net5.0\MISA.Core.deps.json
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\bin\Debug\net5.0\MISA.Core.dll
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\bin\Debug\net5.0\ref\MISA.Core.dll
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\bin\Debug\net5.0\MISA.Core.pdb
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.csproj.AssemblyReference.cache
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.Properties.ResourceVN.resources
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.csproj.GenerateResource.cache
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.AssemblyInfoInputs.cache
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.AssemblyInfo.cs
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.csproj.CoreCompileInputs.cache
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.dll
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\ref\MISA.Core.dll
+D:\MISA JSC\Web2021_07\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.pdb
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\bin\Debug\net5.0\MISA.Core.deps.json
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\bin\Debug\net5.0\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\bin\Debug\net5.0\ref\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\bin\Debug\net5.0\MISA.Core.pdb
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.Properties.ResourceVN.resources
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\obj\Debug\net5.0\ref\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.core\obj\Debug\net5.0\MISA.Core.pdb
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\bin\Debug\net5.0\MISA.Core.deps.json
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\bin\Debug\net5.0\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\bin\Debug\net5.0\ref\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\bin\Debug\net5.0\MISA.Core.pdb
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\MISA.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\MISA.Core.Properties.ResourceVN.resources
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\MISA.Core.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\MISA.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\MISA.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\MISA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\ref\MISA.Core.dll
+C:\Users\Admin\Desktop\thực tập MISA\FinalProject\API\MISA.core\obj\Debug\net5.0\MISA.Core.pdb

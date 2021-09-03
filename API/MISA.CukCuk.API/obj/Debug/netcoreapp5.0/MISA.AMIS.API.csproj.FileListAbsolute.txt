@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.CukCuk.API\obj\Debug\netcoreapp5.0\MISA.AMIS.API.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.CukCuk.API\obj\Debug\netcoreapp5.0\MISA.AMIS.API.Properties.Resource.resources
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.CukCuk.API\obj\Debug\netcoreapp5.0\MISA.AMIS.API.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.CukCuk.API\obj\Debug\netcoreapp5.0\MISA.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.CukCuk.API\obj\Debug\netcoreapp5.0\MISA.AMIS.API.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.CukCuk.API\obj\Debug\netcoreapp5.0\MISA.AMIS.API.AssemblyInfo.cs
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.CukCuk.API\obj\Debug\netcoreapp5.0\MISA.AMIS.API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.CukCuk.API\obj\Debug\netcoreapp5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\thực tập MISA\Web2021-07-master\MISA.CukCuk\MISA.CukCuk.API\obj\Debug\netcoreapp5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
